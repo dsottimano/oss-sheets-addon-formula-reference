@@ -1,8 +1,6 @@
 {
 	"semrush": [
-        
         {
-
 			"usage": "Organic hsitory for a domain",
 			"formula": "DOMAIN_OVERVIEW_SEMRUSH(domain,db,includeHeader,date)",
 			"example": "DOMAIN_OVERVIEW_SEMRUSH(\"example.com\",\"us\",false,201601)"
@@ -58,7 +56,7 @@
 			"formula": "DOMAIN_KEYWORD_COUNT_SISTRIX(type,url,country,mobile,date,history,excludeHeaders)",
 			"exammple": "DOMAIN_KEYWORD_COUNT_SISTRIX(\"domain\", \"example.com\", \"us\", true, 2016-09-15, true, true)"
 
-		},
+		}
 
 	]
 
