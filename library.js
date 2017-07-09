@@ -4,10 +4,8 @@
 			"usage": "Organic hsitory for a domain",
 			"formula": "DOMAIN_OVERVIEW_SEMRUSH(domain,db,includeHeader,date)",
 			"example": "DOMAIN_OVERVIEW_SEMRUSH(\"example.com\",\"us\",false,201601)"
-
 		},
         {
-
 			"usage": "Organic keywords for a domain",
 			"formula": "DOMAIN_ORGANIC_KEYWORDS_SEMRUSH(domain, filterBy, matchType, query, limit, db, includeHeader, date)",
 			"example": "DOMAIN_ORGANIC_KEYWORDS_SEMRUSH(\"example.com\", true, true, \"apartments\", 10, \"us\", true, 201601)"
@@ -41,7 +39,6 @@
 			"usage": "Search volume for a keyword",
             "formula" : "KEYWORD_VOLUME_SEMRUSH(query, includeHeader, db)",
 			"example": "KEYWORD_VOLUME_SEMRUSH(\"apartments\", false, \"us\")"
-
 		}
 	],
 
@@ -55,7 +52,6 @@
 			"usage": "Keywords in Google serps for domain",
 			"formula": "DOMAIN_KEYWORD_COUNT_SISTRIX(type,url,country,mobile,date,history,excludeHeaders)",
 			"exammple": "DOMAIN_KEYWORD_COUNT_SISTRIX(\"domain\", \"example.com\", \"us\", true, 2016-09-15, true, true)"
-
 		}
 
 	]
