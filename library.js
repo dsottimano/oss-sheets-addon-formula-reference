@@ -8,7 +8,7 @@
 		{
 			"usage": "Organic keywords per URL",
             "formula" : "urlOrganicKeywords(url, includeHeader, limit, db)",
-			"example": "urlOrganicKeywords(\"http://example.com\", true, \"10\", \"us\") "
+			"example": "urlOrganicKeywords(\"http://example.com\", true, \"10\", \"us\")"
 
 		},
         {
