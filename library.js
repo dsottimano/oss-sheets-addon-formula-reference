@@ -1,29 +1,29 @@
 [{
-    semrush: [
+    "semrush": [
         {
-            name: "domain organic",
-            Formula: "domainoverview()",
-            Description: "Returns keywords for a specific domain",
+            "name": "vvvvvdomain overview",
+            "Formula": "whatever()",
+            "Description": "blahblah",
 
         },
         {
-            name: "domain overview",
-            Formula: "whatever()",
-            Description: "blahblah",
+            "name": "aaaaadomain overview",
+            "Formula": "whatever()",
+            "Description": "blahblah",
 
         }
     ],
-    sistrix: [
+    "sistrix": [
         {
-            name: "sistrix whatever",
-            Formula: "domainoverview()",
-            Description: "Returns keywords for a specific domain",
+            "name": "domaisdsassn overview",
+            "Formula": "whatever()",
+            "Description": "blahblah",
 
         },
         {
-            name: "domain sistrix",
-            Formula: "whatever()",
-            Description: "blahblah",
+            "name": "domain osdvsdgvdverview",
+            "Formula": "whatever()",
+            "Description": "blahblah",
 
         }
 
